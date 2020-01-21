@@ -19,7 +19,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan("com.wiggin.springboot.demo.*")
 public class Main {
     public static void main(String[] args) {
-		system.out.println("testDemo By kevin!");
+		System.out.println("testDemo By kevin!222222");
         SpringApplication.run(Main.class);
     }
 }
